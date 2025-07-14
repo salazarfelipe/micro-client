@@ -3,7 +3,7 @@ name: CI/CD Microservice Python
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-test-scan:
